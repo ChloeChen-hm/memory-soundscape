@@ -20,14 +20,11 @@ Memory Soundscape combines an image, a few words, and a curated audio library to
 ---
 
 ## What is Memory Soundscape?
+Memory Soundscape is a web application that helps people store and experience memories through sound.
 
-Photographs preserve how a moment looked. Memory Soundscape explores how that moment might have **felt and sounded**.
+Normally, people save memories using photos and videos. However, sound can also bring back strong emotions and details. For example, the sound of ocean waves may remind someone of a family holiday, while birds, rain, music, or familiar voices may remind them of a special moment.
 
-Upload a photograph, describe the memory in your own words, and the app uses Google Gemini to interpret its possible mood and atmosphere. It then searches a curated sound library and assembles a layered mix of ambience, texture, music, and accents.
-
-The generated result is not fixed. You can preview individual sounds, enable or remove layers, adjust volume and timing, play the complete arrangement, and save the finished memory to a personal gallery.
-
-> Memory Soundscape creates an artistic interpretation—not a claim about exactly what happened or what was originally audible.
+With Memory Soundscape, users upload a meaningful photo and describe what they remember. The system then uses artificial intelligence to create a soundscape connected to that memory.
 
 <!-- Replace this GIF with a short recording of the complete flow. -->
 <p align="center">
@@ -262,10 +259,6 @@ Saved application data is stored in the project's local SQLite database in the c
 - Searching memories by mood, place, person, or sound
 - Alternative soundscape versions for the same photograph
 - Accessibility controls and reduced-motion playback views
-
-## Acknowledgements
-
-Memory Soundscape is inspired by the idea that memories are multisensory. A single image can carry traces of weather, movement, distance, rhythm, and emotion—and sound can offer a new way to explore those traces.
 
 ---
 
