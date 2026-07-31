@@ -1,4 +1,3 @@
-# memory-soundscape
 <div align="center">
 
 # Memory Soundscape
